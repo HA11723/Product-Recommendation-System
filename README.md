@@ -178,6 +178,6 @@ Project Link: [https://github.com/HA11723/Product-Recommendation-System](https:/
 
 <div align="center">
   
-**⭐ Star this repo if you found it helpful!**
+*⭐ Star this repo if you found it helpful!*
 
 </div>
